@@ -1,0 +1,14 @@
+{
+  "name": "fender",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/odysa/fender.git",
+  "author": "odysa <piensengxv@gmail.com>",
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
